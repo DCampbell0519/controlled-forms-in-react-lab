@@ -4,7 +4,10 @@ import './App.css'
 function App() {
 
   return (
-    <h1>Welcome to the Thunderdome!</h1>
+    <>
+      <h1>My Bookshelf</h1>
+      <Bookshelf />
+    </>
   )
 }
 
